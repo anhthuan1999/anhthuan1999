@@ -1,34 +1,26 @@
-### Hi there, i'm Thuan Tran 👋
+### Hi there, I'm Thuan Tran 👋
 
 <!--Introduction -->
-I'm Thuan Tran! I'm pursuing **Artificial Intelligence** master degree, passionate in **3D point cloud problems**:earth_asia:. Also love the AI field, especially Deep Learning. Consider :star2: my repositories if you find my project interesting, at least your star could make someone's day :pray:.
+I'm pursuing PhD in Computer Science at George Mason University. My research interests are 3D point cloud processing, 3D scene understanding and 3D generative models :earth_asia:. Consider :star2: my repositories if you find my project interesting, at least your star could make someone's day :pray:.
+
+**Personal Website**: <a href="https://anhthuan1999.github.io">
+          https://anhthuan1999.github.io
+</a><br>
 
 
-![Age](https://img.shields.io/badge/age-23-blue)
-![Living](https://img.shields.io/badge/Living-Ho%20Chi%20Minh%2C%20Vietnam-blue)
-[![Learning](https://img.shields.io/badge/Learning%20at-Pukyong%20National%20University-blue)]
-![](https://komarev.com/ghpvc/?username=anhthuan1999&color=brightgreen&style=flat)
+**Google Scholar**: <a href="https://scholar.google.com/citations?user=bIdARZMAAAAJ&hl=en">
+          My publications
+</a><br>
+
+
+**Linkedin**: <a href="https://www.linkedin.com/in/anh-thuan-tran-622370146/">
+          Anh-Thuan Tran
+</a><br>
+
+
+**Email**: anhthuan1389@gmail.com, atran92@gmu.edu
 
 <br>
-
-<table>
-  <tbody>
-    <tr align="center">
-      <td align="center" width="60%">
-        <span><b><center></center></b></span> 
-        <a href="https://github.com/anhthuan1999">
-          <img src="https://github-readme-stats.vercel.app/api/?username=anhthuan1999&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=474c4d"/>
-        </a>
-      </td>
-      <td align="center" width="100%">
-        <span><b><center></center></b></span> 
-        <a href="https://github.com/anhthuan1999">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhthuan1999&theme=radical"/>
-        </a>
-      </td>
-    </tr>
-</tbody>
-</table>
 
 ## Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0)
@@ -50,7 +42,6 @@ I'm Thuan Tran! I'm pursuing **Artificial Intelligence** master degree, passiona
 ![Sklearn](https://img.shields.io/badge/-Sklearn-d6882f.svg?style=flat&logo=Scikit-learn)
 ![Tensorflow 2](https://img.shields.io/badge/-Tensorflow-a8502f.svg?style=flat&logo=Tensorflow)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch)
-![Flask](https://img.shields.io/badge/-Flask-black.svg?style=flat&logo=Flask)
 
 
 ## Database
